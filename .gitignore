@@ -1,0 +1,12 @@
+#ignorar events 
+events 
+
+#ignorar todos los .class que dentro de layers 
+*.class 
+
+#ignorar todos los archivos que terminen en lock.json 
+*lock.json
+
+#ignorar la carpeta node_module dentro de src sin contar la carpeta misma
+*node_module
+
